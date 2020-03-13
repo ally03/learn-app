@@ -1,0 +1,29 @@
+.Text-field {
+  display: flex;
+  justify-content: center;
+  padding: 3rem;
+}
+
+/* .text-input {
+  border: 2px solid whitesmoke;
+  border-radius: 28px;
+  padding: 0.5rem 1rem;
+} */
+/* input {
+  font-size: 1.8em;
+  border: 0;
+
+  border-radius: 100px;
+} */
+
+/* .Weather-field {
+  display: flex;
+  justify-content: center;
+} */
+
+.card-style {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: aliceblue;
+}
